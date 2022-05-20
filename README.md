@@ -1,6 +1,6 @@
 ﻿# Chrome Personal Dashboard
 
-Replace new tab page with a personal dashboard featuring time, weather, to-do, and inspirational quotes and background images.
+"Momentum" inspired web application that replace new tab page with a personal dashboard featuring time, weather, to-do, and inspirational quotes and background images.
 
 ### Language
 - HTML, CSS, JavaScript
