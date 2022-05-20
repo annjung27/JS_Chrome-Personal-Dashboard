@@ -2,6 +2,8 @@
 
 "Momentum" inspired web application that replace new tab page with a personal dashboard featuring time, weather, to-do, and inspirational quotes and background images.
 
+Website URL: https://fascinating-fudge-34e562.netlify.app
+
 ### Technologies used
 - HTML, CSS, JavaScript
 - open weather API
