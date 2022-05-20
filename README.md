@@ -1,4 +1,4 @@
-﻿# Chrome Personal Dashboard
+﻿# Chrome Personal Dashboard App
  
  "Momentum" inspired application that replace new tab page with a personal dashboard featuring time, weather, to-do, and inspirational quotes and background images. 
  
