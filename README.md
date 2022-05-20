@@ -2,8 +2,9 @@
 
 "Momentum" inspired web application that replace new tab page with a personal dashboard featuring time, weather, to-do, and inspirational quotes and background images.
 
-### Language
+### Technologies used
 - HTML, CSS, JavaScript
+- open weather API
 
 ### Features
 - shows random background images
